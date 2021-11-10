@@ -1,0 +1,30 @@
+{
+  "name": "html5blankwptail",
+  "version": "1.0.0",
+  "description": "Tailwind Starter for Wordpress Based on html5blank for Wordpress",
+  "scripts": {
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "production": "mix --production"
+  },
+  "author": "Ciaran",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "browser-sync": "^2.27.3",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "cross-env": "^7.0.3",
+    "laravel-mix": "^6.0.25",
+    "postcss": "^8.3.5",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.35.1",
+    "sass-loader": "^12.1.0",
+    "tailwindcss": "^2.2.4",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "dependencies": {
+    "@splidejs/splide": "^2.4.21"
+  }
+}

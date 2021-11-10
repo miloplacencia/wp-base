@@ -1,0 +1,18 @@
+/*!
+  Theme Name: MyWPDev
+  Theme URI: http://html5blank.com
+  Description: Tema para MyWPDev
+  Version: 1.0
+  Author: Milo Placencia (https://miloplacencia.cl)
+  Author URI: https://miloplacencia.cl
+  Tags: Blank, HTML5, CSS3
+
+  License: MIT
+  License URI: http://opensource.org/licenses/mit-license.php
+    
+  Modified by ciaran.co.za to include TailwindCSS
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
